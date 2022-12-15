@@ -2,9 +2,9 @@
 
 ## 🔗 Links
 
-[Code Link]() <br>
-[Live]() <br>
-[Linkedin]()
+[Code Link](https://github.com/pk170970/Project-12-Stripe-Landing-Page/) <br>
+[Live](https://reactprojectstripe.netlify.app/) <br>
+[Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
 
 ## Learnings
